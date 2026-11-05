@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Marlon Asah 👋
 
-<!--
-**marlonasah/marlonasah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study **Data and Information Science (B.Sc.)** at **TH Köln**. I like finding out what is hidden in messy data, and I'm learning to do it in a way that others can check and repeat.
 
-Here are some ideas to get you started:
+## What I'm working on right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning **Git and GitHub** in the course *DIS 3.3 Data Integration*
+- A group project that combines several open datasets into one
+
+## Tools I use
+
+- **Programming:** Python, R, SQL
+
+## Beyond the screen
+
+- **Football:** I love playinga and watching it
+
+## Languages
+
+German (native) · English (native, Cambridge certificate)
+
+## Links
+
+- Course repository: [breuert/data-integration](https://github.com/breuert/data-integration)
